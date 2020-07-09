@@ -1,7 +1,10 @@
 header {
     background-color: rgb(59, 59, 59);
     position:fixed;
-    
+    margin-left: 5px;
+    margin-top: 30px;
+    width: 450px;
+    height: 430px;
     /* padding:20px 20px 30px 20px; */
 }
 .container {
@@ -10,8 +13,10 @@ header {
     padding: 15px;
 
 }
-.picture {
 
+.picture {
+    margin-left: 10px;
+    margin-top: 10px;
 }
 
 .profile-name {
@@ -19,6 +24,7 @@ header {
 font-size: 40px;
 font-family: Roboto Mono,monospace;
 color: rgb(255, 253, 253);
+margin-left: 8px;
 
 }
 
@@ -27,6 +33,7 @@ font-family: Roboto,sans-serif;
 font-size: 20px;
 color: rgb(255, 253, 253);
 font-weight: lighter;
+margin-left:8px;
 
 
 }
