@@ -1,4 +1,10 @@
 # lucasmiranda-dev.github.io
+
+Atualização do layout da página.
+
+--------------------------------------------------------------------------------------------------------------------
+
+
 Portfólio produzido em exercício do Bloco 03 da Escola Trybe.
 
 Requisitos
