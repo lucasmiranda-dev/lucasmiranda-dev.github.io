@@ -1,8 +1,17 @@
 header {
     background-color: rgb(59, 59, 59);
+    width: 1890px;
+    height: 90px;
+}
+
+
+
+
+.cartao {
+    background-color: rgb(59, 59, 59);
     position:fixed;
     margin-left: 5px;
-    margin-top: 30px;
+    margin-top: 88px;
     width: 450px;
     height: 430px;
     /* padding:20px 20px 30px 20px; */
@@ -25,7 +34,7 @@ header {
 font-size: 40px;
 font-family: Roboto Mono,monospace;
 color: rgb(255, 253, 253);
-margin-left: 8px;
+margin-left: 15px;
 
 }
 
@@ -34,7 +43,7 @@ font-family: Roboto,sans-serif;
 font-size: 20px;
 color: rgb(255, 253, 253);
 font-weight: lighter;
-margin-left:8px;
+margin-left: 15px;
 
 
 }
