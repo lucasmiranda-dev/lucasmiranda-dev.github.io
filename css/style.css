@@ -1,0 +1,101 @@
+header {
+    background-color: #f8f8f8;
+    font-family: Roboto Mono, monospace;
+}
+
+.menu-container {
+    margin: auto;
+    border: 1px solid;
+    /* apagar */
+    display: flex;
+}
+
+.menu-flex {
+    display: flex;
+}
+
+.menu {
+    margin: 5px;
+    padding: 0 10px;
+    text-align: center;
+    font-size: 1em;
+}
+
+body {
+    background-color: #f8f8f8;
+}
+
+.container-hi-lucas {
+    margin: auto;
+    padding: 15px;
+    width: 900px;
+}
+
+.hi-lucas {
+    display: block;
+    font-size: 3em;
+    font-family: Roboto Mono, monospace;
+
+}
+
+.sub-hi-lucas {
+    font-size: 1.5em;
+    font-family: Roboto Mono, monospace;
+}
+
+.picture {
+    
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+
+}
+
+.profile-name {
+
+    font-size: 40px;
+    font-family: Roboto Mono, monospace;
+    color: #f8f8f8;
+    margin-left: 15px;
+
+}
+
+.profile-name-content {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    color: #f8f8f8;
+    font-weight: lighter;
+    margin-left: 15px;
+
+
+}
+
+.titles {
+    margin-bottom: 26px;
+    font-size: 36px;
+    font-family: Roboto Mono, monospace;
+    color: rgb(255, 253, 253);
+    background-color: rgb(87, 87, 87);
+
+
+}
+
+.description {
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 30px;
+    color: rgb(37, 37, 37);
+    /* background-color: rgb(53, 53, 53); */
+}
+
+.skills-list {
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 30px;
+    color: rgb(37, 37, 37);
+}
